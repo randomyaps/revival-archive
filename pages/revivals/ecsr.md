@@ -1,6 +1,6 @@
 ---
 name: "Economy Simulator: R"
-website: https://ecsrev.xyz/
+website: https://ecsr.io/
 clients:
     - 2016
 defunct: false
